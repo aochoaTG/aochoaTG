@@ -6,7 +6,7 @@
 <tr>
 <td>
 <a href="https://youtu.be/Kp4Mvapo5kc">
-<img src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg">
+<img src="">
 </a>
 </td>
 <td>
